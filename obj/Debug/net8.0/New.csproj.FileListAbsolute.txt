@@ -1,0 +1,14 @@
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.AssemblyInfoInputs.cache
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.AssemblyInfo.cs
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.csproj.CoreCompileInputs.cache
+C:\Users\ll novbe\source\repos\New\New\bin\Debug\net8.0\New.exe
+C:\Users\ll novbe\source\repos\New\New\bin\Debug\net8.0\New.deps.json
+C:\Users\ll novbe\source\repos\New\New\bin\Debug\net8.0\New.runtimeconfig.json
+C:\Users\ll novbe\source\repos\New\New\bin\Debug\net8.0\New.dll
+C:\Users\ll novbe\source\repos\New\New\bin\Debug\net8.0\New.pdb
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.dll
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\refint\New.dll
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.pdb
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\New.genruntimeconfig.cache
+C:\Users\ll novbe\source\repos\New\New\obj\Debug\net8.0\ref\New.dll
